@@ -1,0 +1,18 @@
+[filesystem "Eclipse Adoptium|11.0.28|/dev/disk3s5"]
+	timestampResolution = 2000 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Eclipse Adoptium|17.0.16|/dev/disk3s5"]
+	timestampResolution = 2000 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Eclipse Adoptium|21.0.8|/dev/disk3s5"]
+	timestampResolution = 3000 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Eclipse Adoptium|21.0.9|/dev/disk3s5"]
+	timestampResolution = 2000 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Eclipse Adoptium|21.0.9|/dev/disk3s8"]
+	timestampResolution = 2000 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Eclipse Adoptium|21.0.9|/dev/disk2s8"]
+	timestampResolution = 2000 nanoseconds
+	minRacyThreshold = 0 nanoseconds
